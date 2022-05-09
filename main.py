@@ -31,8 +31,3 @@ while True:
         time.sleep(15)
         driver.execute_script("location.reload(true);")
         continue
-
-
-
-
-
